@@ -9,13 +9,13 @@ role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14154
-source-git-commit: f3082975a674a13152aa92c06302e67e9f4715b6
+exl-id: ce56c21c-1d75-4694-91a8-06c1b1067026
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 8%
 
 ---
-
 
 # Tutoriais de fluxo de trabalho e planejamento
 
@@ -28,7 +28,7 @@ As soluções de Adobe usadas para fluxo de trabalho e planejamento:
 
 >[!TIP]
 >
->Nossa equipe de especialistas em produtos Adobe montou uma coleção de tutoriais de integração para casos de uso importantes da cadeia de fornecimento de conteúdo. Se você estiver usando mais de uma solução, saiba a melhor maneira de integrá-las!  Confira o [Tutoriais de integração da cadeia de fornecimento de conteúdo](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>Nossa equipe de especialistas em produtos Adobe montou uma coleção de tutoriais de integração para casos de uso importantes da cadeia de fornecimento de conteúdo. Se você estiver usando mais de uma solução, saiba a melhor maneira de integrá-las!  Confira os [Tutoriais de integração da cadeia de fornecimento de conteúdo](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Cursos recomendados
 
@@ -51,7 +51,7 @@ As soluções de Adobe usadas para fluxo de trabalho e planejamento:
         </a>
         <div>
           <a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2020-1-assets.html" target="_blank">
-        <strong>Configuração do AEM Assets para administradores</strong></a>
+        <strong>Configurando o AEM Assets para Administradores</strong></a>
         <p class="is-size-7 recs-limit-description">Saiba como estabelecer uma base sólida para sua implementação do AEM Assets configurando as principais preocupações, desde a configuração de uma arquitetura de conteúdo básico e taxonomia até a personalização de metadados e processamento de ativos.</p>
         </div>
         <p><a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2020-1-assets.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span></a></p>
@@ -136,7 +136,7 @@ As soluções de Adobe usadas para fluxo de trabalho e planejamento:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html" title="Noções básicas do conector aprimorado do Workfront">Noções básicas do conector aprimorado do Workfront</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html" title="Noções básicas do conector aprimorado do Workfront">noções básicas do conector aprimorado do Workfront</a>
           </p>
           <p class="is-size-6"><em>Saiba mais sobre as noções básicas do conector aprimorado do Adobe Workfront e Experience Manager Assets.</em></p>
       </div>
@@ -157,7 +157,7 @@ As soluções de Adobe usadas para fluxo de trabalho e planejamento:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" title="Integrar o Workfront e o AEM Assets ao conector aprimorado">Integrar o Workfront e o AEM Assets ao conector aprimorado</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" title="Integrar o Workfront e o AEM Assets ao conector aprimorado">Integre o Workfront e o AEM Assets ao conector aprimorado</a>
           </p>
           <p class="is-size-6"><em>Série de vídeos de quatro partes sobre a integração do Workfront e do AEM Assets usando o conector aprimorado.</em></p>
       </div>
@@ -244,5 +244,5 @@ As soluções de Adobe usadas para fluxo de trabalho e planejamento:
 
 ## Recursos adicionais
 
-* [Eventos Experience League](https://experienceleague.adobe.com/events/)
+* [Experience League Eventos](https://experienceleague.adobe.com/events/)
 * [Adobe na cadeia de fornecimento de conteúdo](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14156
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: a72efe7e-e7ff-4845-9242-f038f10bb805
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '810'
 ht-degree: 0%
 
 ---
-
 
 # Agilidade de marketing: capacite os não criativos a crescer
 
@@ -58,7 +58,7 @@ As soluções de Adobe usadas para agilidade de marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html?lang=pt-BR" title="Uso do Corte inteligente com o AEM Assets Dynamic Media">Uso do Corte inteligente com o AEM Assets Dynamic Media</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html?lang=pt-BR" title="Uso do Corte inteligente com o AEM Assets Dynamic Media">Usando o Recorte Inteligente com o AEM Assets Dynamic Media</a>
           </p>
           <p class="is-size-6"><em>O Recorte inteligente usa o Adobe Sensei para eliminar as tarefas demoradas e dispendiosas de recorte de conteúdo para oferecer design responsivo.</em></p>
       </div>
@@ -100,7 +100,7 @@ As soluções de Adobe usadas para agilidade de marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" title="Criar cartazes de webinário com o Firefly">Criar cartazes de webinário com o Firefly</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" title="Criar cartazes de webinário com o Firefly">Criar posters de webinário com o Firefly</a>
           </p>
           <p class="is-size-6"><em>Saiba como usar Texto para imagem, ativado por Adobe Firefly, no Adobe Express para criar um poster de webinário para um evento de realidade virtual. Este tutorial usa o novo Adobe Express.</em></p>
       </div>
@@ -121,7 +121,7 @@ As soluções de Adobe usadas para agilidade de marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" title="Executar campanhas sociais facilmente">Executar campanhas sociais facilmente</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" title="Executar campanhas sociais facilmente">Executar facilmente campanhas sociais</a>
           </p>
           <p class="is-size-6"><em>Saiba como usar Texto para imagem habilitado pelo Adobe Firefly para criar conteúdo gráfico exclusivo para campanhas da Web, de blogs e sociais. Este tutorial usa o novo Adobe Express.</em></p>
       </div>
@@ -184,7 +184,7 @@ As soluções de Adobe usadas para agilidade de marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="Capacite as equipes distribuídas a localizar conteúdo">Capacite as equipes distribuídas a localizar conteúdo</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="Capacite as equipes distribuídas a localizar conteúdo">Capacitar as equipes distribuídas a localizar o conteúdo</a>
           </p>
           <p class="is-size-6"><em>Saiba como as equipes de marketing de campo distribuído podem personalizar facilmente o conteúdo em sua região para campanhas de marketing locais. </em></p>
       </div>
@@ -226,7 +226,7 @@ As soluções de Adobe usadas para agilidade de marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="Capacite as equipes de marketing para criar conteúdo multicanal">Capacite as equipes de marketing para criar conteúdo multicanal</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="Capacite as equipes de marketing para criar conteúdo multicanal">Capacite as equipes de marketing a criar conteúdo multicanal</a>
           </p>
           <p class="is-size-6"><em>Saiba como as equipes de marketing de eventos podem criar conteúdo exclusivo para atrair visualizadores para eventos online.</em></p>
       </div>
@@ -247,7 +247,7 @@ As soluções de Adobe usadas para agilidade de marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" title="Estilizar este PDF">Estilizar este PDF</a>
+              <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" title="Estilizar este PDF">Estilizar esta PDF</a>
           </p>
           <p class="is-size-6"><em>Saiba como criar PDF com aparência profissional usando as ferramentas de design integradas e fáceis de usar do Adobe Express. Este tutorial em vídeo usa a nova experiência do Workspace.</em></p>
       </div>
@@ -268,7 +268,7 @@ As soluções de Adobe usadas para agilidade de marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="Visão geral da Automação de conteúdo com serviços Creative Cloud">Visão geral da Automação de conteúdo com serviços Creative Cloud</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="Visão geral da Automação de conteúdo com serviços Creative Cloud">Visão Geral da Automação de Conteúdo com os serviços Creative Cloud</a>
           </p>
           <p class="is-size-6"><em>Uma visão geral aplica os recursos do Photoshop e do Lightroom com a Automação de conteúdo do Adobe Experience Manager Assets.</em></p>
       </div>
@@ -469,5 +469,5 @@ As soluções de Adobe usadas para agilidade de marketing:
 
 ## Recursos adicionais
 
-* [Eventos Experience League](https://experienceleague.adobe.com/events/)
+* [Experience League Eventos](https://experienceleague.adobe.com/events/)
 * [Adobe na cadeia de fornecimento de conteúdo](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

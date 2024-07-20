@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14155
 hidefromtoc: true
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+exl-id: e66480f9-c7af-4b15-afdf-dd89a792af20
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 3%
 
 ---
-
 
 # Produtividade criativa: equipes criativas de supercarga
 
@@ -58,7 +58,7 @@ As soluções de Adobe usadas para a produtividade criativa:
         </a>
         <div>
           <a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" target="_blank">
-        <strong>Configurar acesso administrativo ao Experience Manager</strong></a>
+        <strong>Configurar o Acesso Administrativo ao Experience Manager</strong></a>
         <p class="is-size-7 recs-limit-description">Saiba como os usuários se autenticam usando o Adobe IMS para o AEM as a Cloud Service e como os usuários do Adobe IMS, grupos de usuários e perfis de produtos são usados para controlar o acesso ao AEM e seus recursos e funcionalidades.</p>
         <p><a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span></a></p>
         </div>
@@ -80,7 +80,7 @@ As soluções de Adobe usadas para a produtividade criativa:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=pt-BR" title="CREATIVE CLOUD e ASSETS ESSENTIALS">CREATIVE CLOUD e ASSETS ESSENTIALS</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=pt-BR" title="CREATIVE CLOUD e ASSETS ESSENTIALS">Creative Cloud e Assets Essentials</a>
           </p>
           <p class="is-size-6"><em>Saiba como integrar Assets Essentials com as bibliotecas do Adobe Creative Cloud.</em></p>
       </div>
@@ -164,7 +164,7 @@ As soluções de Adobe usadas para a produtividade criativa:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="Vídeos do console de Fragmentos de conteúdo">Vídeos do console de Fragmentos de conteúdo</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="Vídeos do console de Fragmentos de conteúdo">Vídeos do Console de fragmentos de conteúdo</a>
           </p>
           <p class="is-size-6"><em>Uma coleção de vídeos que ajudam você a entender e usar o console e o editor de fragmentos de conteúdo do AEM.</em></p>
       </div>
@@ -208,7 +208,7 @@ As soluções de Adobe usadas para a produtividade criativa:
           <p class="headline is-size-6 has-text-weight-bold">
               <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Configuração do Adobe Asset Link">Configuração do Adobe Asset Link</a>
           </p>
-          <p class="is-size-6"><em>Saiba como configurar o Adobe Asset Link para o AEM as a Cloud Service AEM as a Cloud Service, configurando os direitos de usuário e o, e como instalar e usar o Adobe Asset Link.</em></p>
+          <p class="is-size-6"><em>Saiba como configurar o Adobe Asset Link para o AEM as a Cloud Service, configurar direitos de usuário e o AEM as a Cloud Service e como instalar e usar o Adobe Asset Link.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assista ao vídeo</span>

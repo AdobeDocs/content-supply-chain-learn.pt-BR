@@ -30,7 +30,7 @@ As soluções de Adobe usadas para ativação e análise de conteúdo:
 
 >[!TIP]
 >
->Nossa equipe de especialistas em produtos Adobe montou uma coleção de tutoriais de integração para casos de uso importantes da cadeia de fornecimento de conteúdo. Se você estiver usando mais de uma solução, saiba a melhor maneira de integrá-las!  Confira o [Tutoriais de integração da cadeia de fornecimento de conteúdo](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>Nossa equipe de especialistas em produtos Adobe montou uma coleção de tutoriais de integração para casos de uso importantes da cadeia de fornecimento de conteúdo. Se você estiver usando mais de uma solução, saiba a melhor maneira de integrá-las!  Confira os [Tutoriais de integração da cadeia de fornecimento de conteúdo](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Tutorials
 
@@ -47,7 +47,7 @@ As soluções de Adobe usadas para ativação e análise de conteúdo:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="Visão geral do console/editor de fragmentos de conteúdo">Visão geral do console/editor de fragmentos de conteúdo</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="Visão geral do console/editor de fragmentos de conteúdo">Visão geral do console/editor de Fragmentos de conteúdo</a>
           </p>
           <p class="is-size-6">Uma coleção de vídeos que ajudam você a entender e usar o console e o editor de fragmentos de conteúdo do AEM.</p>
         </div>
@@ -69,7 +69,7 @@ As soluções de Adobe usadas para ativação e análise de conteúdo:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/edge-delivery-services/sidekick-plugin.html" title="Plug-in e Edge Delivery Services do AEM Assets Sidekick">Plug-in e Edge Delivery Services do AEM Assets Sidekick</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/edge-delivery-services/sidekick-plugin.html" title="Plug-in e Edge Delivery Services do AEM Assets Sidekick">Plug-in do AEM Assets Sidekick e Edge Delivery Services</a>
           </p>
           <p class="is-size-6">Saiba como o plug-in Sidekick do AEM Assets pode ser usado para incorporar ativos gerenciados em experiências de alto impacto fornecidas por meio do Edge Delivery Services.</p>
         </div>
@@ -113,7 +113,7 @@ As soluções de Adobe usadas para ativação e análise de conteúdo:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/landing/experience-manager/headless/developer.html?lang=pt-BR" title="Microsite para desenvolvedores AEM Headless">Microsite para desenvolvedores AEM Headless</a>
+            <a href="https://experienceleague.adobe.com/landing/experience-manager/headless/developer.html?lang=pt-BR" title="Microsite para desenvolvedores AEM Headless">Microsite para desenvolvedores sem periféricos do AEM</a>
           </p>
           <p class="is-size-6">Crie uma página de aterrissagem AEM Headless que reúne todo o conteúdo do AEM Headless no ExL e atualize para ser compatível com SEO.</p>
         </div>
@@ -135,7 +135,7 @@ As soluções de Adobe usadas para ativação e análise de conteúdo:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=pt-BR" title="Mapeamento de metadados">Mapeamento de metadados</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=pt-BR" title="Mapeamento de metadados">Metadados de mapeamento</a>
           </p>
           <p class="is-size-6">Saiba como configurar o mapeamento de metadados entre campos do Workfront e propriedades do Assets Essentials, bem como configurar Assets Essentials para exibir os valores mapeados.</p>
         </div>
@@ -179,7 +179,7 @@ As soluções de Adobe usadas para ativação e análise de conteúdo:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/site-template/overview.html" title="Visão geral da criação rápida de site">Visão geral da criação rápida de site</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/site-template/overview.html" title="Visão geral da criação rápida de site">Visão Geral da Criação Rápida de Sites</a>
           </p>
           <p class="is-size-6">Saiba como usar uma abordagem low-code para criar seu primeiro site no Adobe Experience Manager com a Criação rápida de site e um modelo de site predefinido. </p>
         </div>
@@ -215,15 +215,15 @@ As soluções de Adobe usadas para ativação e análise de conteúdo:
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="Personalização de experiências completas de página da Web" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6353-personalization-web-page.jpg" alt="Personalização de experiências completas de página da Web">
+          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="Personalization de experiências completas de página da Web" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6353-personalization-web-page.jpg" alt="Personalization de experiências completas de página da Web">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="Personalização de experiências completas de página da Web">Personalização de experiências completas de página da Web</a>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="Personalization de experiências completas de página da Web">Personalization de experiências completas de página da Web</a>
           </p>
           <p class="is-size-6">Saiba como criar uma atividade para redirecionar as páginas do site hospedadas no AEM para uma nova página usando o Adobe Target.</p>
         </div>
@@ -237,15 +237,15 @@ As soluções de Adobe usadas para ativação e análise de conteúdo:
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="Personalização usando o Visual Experience Composer" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6352-personalization-using-vec.jpg" alt="Personalização usando o Visual Experience Composer">
+          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="Personalization usando o Visual Experience Composer" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6352-personalization-using-vec.jpg" alt="Personalization usando o Visual Experience Composer">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="Personalização usando o Visual Experience Composer">Personalização usando o Visual Experience Composer</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="Personalization usando o Visual Experience Composer">Personalization usando o Visual Experience Composer</a>
           </p>
           <p class="is-size-6">Saiba como criar uma Atividade de teste A/B usando o Visual Experience Composer (VEC).</p>
         </div>
@@ -311,7 +311,7 @@ As soluções de Adobe usadas para ativação e análise de conteúdo:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/image-smart-tags.html" title="Tags inteligentes para imagens com o AEM Assets">Tags inteligentes para imagens com o AEM Assets</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/image-smart-tags.html" title="Tags inteligentes para imagens com o AEM Assets">Marcas inteligentes para imagens com o AEM Assets</a>
           </p>
           <p class="is-size-6">*Descrição:* As tags inteligentes para imagens aumentam os recursos de pesquisa do AEM adicionando tags de metadados de forma automática e inteligente aos ativos de imagem com base no conteúdo da imagem.</p>
         </div>
@@ -333,7 +333,7 @@ As soluções de Adobe usadas para ativação e análise de conteúdo:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search-boost.html" title="Aumento de pesquisa aprimorada">Aumento de pesquisa aprimorada</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search-boost.html" title="Aumento de pesquisa aprimorada">Aumento de Pesquisa Aprimorada</a>
           </p>
           <p class="is-size-6">Saiba como adicionar palavras-chave e frases para aumentar a relevância da pesquisa de um ativo no Adobe Experience Manager.</p>
         </div>
@@ -347,5 +347,5 @@ As soluções de Adobe usadas para ativação e análise de conteúdo:
 
 ## Recursos adicionais
 
-* [Eventos Experience League](https://experienceleague.adobe.com/events/)
+* [Experience League Eventos](https://experienceleague.adobe.com/events/)
 * [Adobe na cadeia de fornecimento de conteúdo](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
